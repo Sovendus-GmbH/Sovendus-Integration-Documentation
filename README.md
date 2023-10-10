@@ -1,5 +1,3 @@
-# Sovendus-Integration-Documentation
-
 # Sovendus Voucher Network & Checkout Benefits Integration
 
 ## [Plugin for Shopware ](https://github.com/Sovendus-GmbH/Sovendus-Shopware-Voucher-Network-and-Checkout-Benefits-Plugin)
