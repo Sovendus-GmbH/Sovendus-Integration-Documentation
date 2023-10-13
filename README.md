@@ -6,6 +6,8 @@
 
 ## [Plugin for Prestashop ](https://github.com/Sovendus-GmbH/Sovendus-Wordpress-WooCommerce-Voucher-Network-and-Checkout-Benefits-Plugin)
 
+## [Plugin for Magento ](https://github.com/Sovendus-GmbH/Sovendus-Magento-Voucher-Network-and-Checkout-Benefits-Plugin)
+
 ## [Tutorial for Shopify ](https://github.com/Sovendus-GmbH/Sovendus-Wordpress-WooCommerce-Voucher-Network-and-Checkout-Benefits-Plugin)
 
 
