@@ -8,7 +8,7 @@
 
 ## [Plugin for Magento ](https://github.com/Sovendus-GmbH/Sovendus-Magento-Voucher-Network-and-Checkout-Benefits-Plugin)
 
-## [Tutorial for Shopify ](https://github.com/Sovendus-GmbH/Sovendus-Wordpress-WooCommerce-Voucher-Network-and-Checkout-Benefits-Plugin)
+## [Tutorial for Shopify ](https://github.com/Sovendus-GmbH/Sovendus-Shopify-Voucher-Network-and-Checkout-Benefits-Documentation)
 
 
 ## [Template for Google Tagmanager ](https://github.com/Sovendus-GmbH/Sovendus-GTM-v2)
