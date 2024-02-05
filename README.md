@@ -4,6 +4,8 @@
 
 ## [Angular Component](https://github.com/Sovendus-GmbH/Sovendus-Voucher-Network-and-Checkout-Benefits-Component-for-Angular)
 
+## [AngularJS Component](https://github.com/Sovendus-GmbH/Sovendus-Voucher-Network-and-Checkout-Benefits-Component-for-AngularJS)
+
 ## [BigCommerce Tutorial](https://github.com/Sovendus-GmbH/Sovendus-BigCommerce-Voucher-Network-and-Checkout-Benefits-Documentation)
 
 ## [JTL Plugin](https://github.com/Sovendus-GmbH/Sovendus-JTL-Voucher-Network-and-Checkout-Benefits-Plugin)
