@@ -1,5 +1,7 @@
 # Sovendus Voucher Network & Checkout Benefits Integration Documentation
 
+# [About the parameters transmitted to Sovendus](https://github.com/Sovendus-GmbH/Sovendus-Voucher-Network-and-Checkout-Benefits-Parameter)
+
 # Mobile App Integration
 
 ## [Generic documentation for a webview order success page](https://github.com/Sovendus-GmbH/Sovendus-Generic-WebView-App-Integration-Voucher-Network-and-Checkout-Benefits)
@@ -9,6 +11,8 @@
 ## [Flutter native integration](https://github.com/Sovendus-GmbH/Sovendus-Voucher-Network-and-Checkout-Benefits-Documentation-for-Flutter-Apps)
 
 # Web Integration
+
+## [Generic Integration Documentation](https://github.com/Sovendus-GmbH/Sovendus-generic-documentation-for-Voucher-Network-and-Checkout-Benefits)
 
 ## [Angular Component](https://github.com/Sovendus-GmbH/Sovendus-Voucher-Network-and-Checkout-Benefits-Component-for-Angular)
 
