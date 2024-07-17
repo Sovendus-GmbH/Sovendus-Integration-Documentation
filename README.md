@@ -34,9 +34,9 @@
 
 ## [Shopware Plugin](https://github.com/Sovendus-GmbH/Sovendus-Shopware-Voucher-Network-and-Checkout-Benefits-Plugin)
 
-## [Shopify App Tutorial (new Version)](https://github.com/Sovendus-GmbH/Sovendus-Voucher-Network-and-Checkout-Benefits-App-for-Shopify)
+## [Shopify App Tutorial (new Thankyou & Order Status Page Version)](https://github.com/Sovendus-GmbH/Sovendus-Voucher-Network-and-Checkout-Benefits-App-for-Shopify)
 
-## [Shopify Tutorial (old Version)](https://github.com/Sovendus-GmbH/Sovendus-Shopify-Voucher-Network-and-Checkout-Benefits-Documentation)
+## [Shopify Tutorial (old Thankyou & Order Status Page Version)](https://github.com/Sovendus-GmbH/Sovendus-Shopify-Voucher-Network-and-Checkout-Benefits-Documentation)
 
 ## [Svelte Component](https://github.com/Sovendus-GmbH/Sovendus-Voucher-Network-and-Checkout-Benefits-Component-for-Svelte)
 
